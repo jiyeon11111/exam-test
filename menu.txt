@@ -1,0 +1,3 @@
+shop=Cafe Menu
+price_limit=5000
+open_hour=9
