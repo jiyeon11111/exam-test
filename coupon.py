@@ -1,2 +1,2 @@
-def coupon_box():
-    return ""
+def coupon_filter(q):
+    return q
